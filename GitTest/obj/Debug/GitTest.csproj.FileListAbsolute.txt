@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\ArcEngine\GitTest\GitTest\bin\Debug\GitTest.exe
+C:\Users\Admin\Desktop\ArcEngine\GitTest\GitTest\bin\Debug\GitTest.pdb
+C:\Users\Admin\Desktop\ArcEngine\GitTest\GitTest\obj\Debug\GitTest.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ArcEngine\GitTest\GitTest\obj\Debug\GitTest.Form1.resources
+C:\Users\Admin\Desktop\ArcEngine\GitTest\GitTest\obj\Debug\GitTest.Properties.Resources.resources
+C:\Users\Admin\Desktop\ArcEngine\GitTest\GitTest\obj\Debug\GitTest.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ArcEngine\GitTest\GitTest\obj\Debug\GitTest.exe
+C:\Users\Admin\Desktop\ArcEngine\GitTest\GitTest\obj\Debug\GitTest.pdb
